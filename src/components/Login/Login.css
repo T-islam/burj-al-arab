@@ -1,0 +1,24 @@
+.login-section {
+  display: flex;
+
+  margin-top: 1.6rem;
+}
+.usercreate {
+  margin-left: 10rem;
+}
+.sign-up {
+}
+.email-section {
+  margin-left: 2rem;
+  position: relative;
+  margin-bottom: 3rem;
+}
+.sign-in-section {
+  border-left: 1px solid lightgray;
+  margin-left: 2rem;
+  height: 400px;
+  min-width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

@@ -1,0 +1,17 @@
+.avater {
+  background-color: #ff4133 !important;
+  margin-right: 7px;
+}
+.avater-content {
+  display: flex;
+  align-items: baseline;
+  margin: 0 auto;
+  padding-bottom: 10px;
+}
+.book-btn {
+  margin-left: 10px;
+}
+.icon-items {
+  margin-right: 10px;
+  display: flex;
+}
